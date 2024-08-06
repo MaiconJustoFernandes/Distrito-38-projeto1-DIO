@@ -1,2 +1,4 @@
 Distrito-38-projeto1-DIO
-Este é o primeiro projeto de games Roblox entregue da trilha Formação Game Developer: Roblox & Metaverse desenvolvido por mim. Este projeto de game consiste em abordar os conhecimentos adquiridos em aula, sendo pedido para criar um mapa simples com tema livre e publicá-lo. Para acessar essa experiência, acesse: https://www.roblox.com/pt/games/18837016968/Distrito-38
+DESCRIÇÃO
+Objetivo: Crie uma experiência no Roblox utilizando assets do Marketplace/Toolbox e publique com um nome, descrição e thumbnail. Deixe a experiência pública e permita servidores privados gratuitos. Limite a quantidade de jogadores para 32.
+Para acessar essa experiência, acesse: https://www.roblox.com/pt/games/18837016968/Distrito-38
